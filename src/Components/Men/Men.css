@@ -1,0 +1,8 @@
+#cover
+{
+   width:89vw;
+   padding-left:10vw;
+   display: flex;
+   flex-wrap: wrap;
+}
+

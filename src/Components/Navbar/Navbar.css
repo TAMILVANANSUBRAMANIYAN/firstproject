@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Poppins");
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+@import url('https://fonts.googleapis.com/css?family=Chelsea+Market');
+
+
+.navbarleft>ul>li>a{
+    background-color: white ;
+    color: black;
+    letter-spacing:5px;
+    font-size:15px;
+    padding-right:5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.navbarleft >a:hover{
+    background-color: rgb(100, 205, 109) !important;
+    border-radius: 20px;
+    letter-spacing: 8px;
+}
+#su
+{
+   
+    border-radius: 5px;
+    letter-spacing: 3px;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#su:hover
+{
+    background-color: rgb(100, 226, 110) !important;
+    border-radius: 30px;
+    color:black;
+    letter-spacing: 3px;
+   
+}
+#zoro
+{
+    color:rgb(55, 197, 67);
+   letter-spacing: 5px; 
+   margin-top:30px;
+   font-family: Chelsea Market;  
+}

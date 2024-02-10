@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Chelsea+Market');
+.footercontainer
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+h3
+{
+    color:rgb(55, 197, 67);
+    letter-spacing: 8px; 
+    font-family: Chelsea Market;  
+    font-size: 40px;
+    padding-top: 5px;
+    margin-bottom: -10px;
+}
+
+.fa {
+   
+    padding: 20px ;
+    font-size:20px;
+    margin-bottom: -10px;
+   
+
+  }
+  
+  .fa:hover {
+    color:rgb(55, 197, 67);
+  }
+  
+  .fa-facebook {
+  
+    color: white;
+    
+  }
+  
+  .fa-twitter {
+   
+    color: white;
+  }
+  .fa-instagram {
+   
+    color: white;
+  }
+  .fa-whatsapp {
+   
+    color: white;
+  }
+  .fa-copyright {
+   
+    color: white;
+    font-size: 15px;
+    margin-top: -20px;
+  }
+  .fa-globe {
+   
+    color: white;
+   
+  }
+
+  

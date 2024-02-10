@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+.productcard {
+    height: 500px;
+    width: 270px;
+    margin: 20px;
+}
+
+.productcard>img{
+    height : 350px;
+    width: 270px;
+}
+.productcard>img:hover{
+	transition: 0.1s;
+    transform:scale(1.1);
+    overflow: hidden;
+    box-shadow:limegreen 6px 3px 7px 1px;
+   
+}
+.productcard__text > h5{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.productcard__rs{
+    margin-bottom: 10px;
+}
+
+.productcard__rs > p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    display: inline;
+    margin-right: 9px;
+}
+
+.productcard__rs2{
+    text-decoration: line-through;
+}
+
+.productcard__text > a{
+    background-color: rgb(55, 158, 73);
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.productcard__text > a:hover{
+    background-color: transparent;
+    color: rgb(155, 229, 127);
+    border: 3px solid rgb(88, 182, 87);
+}
+.productcard__rs3
+{
+    color: red;
+}
