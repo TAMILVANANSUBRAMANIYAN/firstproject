@@ -16,87 +16,87 @@ import wp12 from "./womenproduct12.avif"
 const Womenproduct= [ 
 
     {
-       name: "Men casual white checked shirt",
+       name: "women Red saree",
        img:wp1,
-       new_price: "Rs- 1600",
-       old_price: "Rs-2000",
+       new_price: "Rs- 2000",
+       old_price: "Rs-2500",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "Women pink and white ",
        img:wp2,
-       new_price: "Rs- 1600",
-       old_price: "Rs-2000",
+       new_price: "Rs- 2000",
+       old_price: "Rs-2800",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "Women white saree ",
        img:wp3,
-       new_price: "Rs- 1600",
+       new_price: "Rs- 1300",
        old_price: "Rs-2000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "women green saree",
        img:wp4,
-       new_price: "Rs- 1600",
+       new_price: "Rs- 1400",
        old_price: "Rs-2000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "Women pink salwar ",
        img:wp5,
-       new_price: "Rs- 1600",
+       new_price: "Rs- 1100",
        old_price: "Rs-2000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "women brown salwar",
        img:wp6,
-       new_price: "Rs- 1600",
+       new_price: "Rs- 1000",
        old_price: "Rs-2000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "Women blue salwar",
        img:wp7,
-       new_price: "Rs- 1600",
+       new_price: "Rs- 999",
        old_price: "Rs-2000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "Women light pink salwar",
        img:wp8,
-       new_price: "Rs- 1600",
+       new_price: "Rs- 1200",
        old_price: "Rs-2000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "Brown leggiens",
        img:wp9,
-       new_price: "Rs- 1600",
-       old_price: "Rs-2000",
+       new_price: "Rs- 700",
+       old_price: "Rs-1000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "black leggiens",
        img:wp10,
-       new_price: "Rs- 1600",
-       old_price: "Rs-2000",
+       new_price: "Rs- 800",
+       old_price: "Rs-1000",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "black leggiens",
        img:wp11,
-       new_price: "Rs- 1600",
-       old_price: "Rs-2000",
+       new_price: "Rs- 900",
+       old_price: "Rs-1200",
        offer:"(-20%)"
    },
    {
-       name: "Men casual white checked shirt",
+       name: "pink leggiens",
        img:wp12,
-       new_price: "Rs- 1600",
-       old_price: "Rs-2000",
+       new_price: "Rs- 800",
+       old_price: "Rs-1000",
        offer:"(-20%)"
    },
 
